@@ -1,0 +1,19 @@
+[package]
+name = "stack"
+version = "1.0.0"
+authors = []
+
+[addresses]
+StakingPlatform = "0x72c452f21e168480455fca02b8d44dac2dee5b58b8753fe50ca1a6cd9a66aefa"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
+
+
+
+
